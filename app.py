@@ -15,7 +15,7 @@ def home():
 def get_books():
     books = [
         {"id": 1, "title": "Python Basics", "author": "John Doe"},
-        {"id": 2, "title": "Flask for Beginners", "author": "Jane Smith"}
+        {"id": 2, "title": "Flask for Beginners", "author": "veera Smith"}
     ]
     return jsonify(books)
 
